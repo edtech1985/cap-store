@@ -1,0 +1,94 @@
+{
+    "caps": [
+        {
+            "id": 1,
+            "reference": "M001",
+            "name": "Boné Preto",
+            "description": "Boné preto com logo da marca em branco",
+            "price": 29.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/06/F83-6107-006/F83-6107-006_zoom1.jpg?ts=1621878144&ims=544x",
+            "color": "Preto"
+        },
+        {
+            "id": 2,
+            "reference": "M002",
+            "name": "Boné Azul",
+            "description": "Boné azul com logo da marca em branco",
+            "price": 24.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/62/F83-6107-162/F83-6107-162_zoom1.jpg?ts=1621878142&ims=544x",
+            "color": "Azul"
+        },
+        {
+            "id": 3,
+            "reference": "M003",
+            "name": "Boné Vermelho",
+            "description": "Boné vermelho com logo da marca em branco",
+            "price": 27.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/16/F83-6107-016/F83-6107-016_zoom1.jpg?ts=1621878143&ims=544x",
+            "color": "Vermelho"
+        },
+        {
+            "id": 4,
+            "reference": "M004",
+            "name": "Boné Bege",
+            "description": "Boné bege com logo da marca em branco",
+            "price": 26.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/04/F83-6107-004/F83-6107-004_zoom1.jpg?ts=1621878146&ims=544x",
+            "color": "Bege"
+        },
+        {
+            "id": 5,
+            "reference": "M005",
+            "name": "Boné Cinza",
+            "description": "Boné cinza com logo da marca em branco",
+            "price": 25.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/10/F83-6107-010/F83-6107-010_zoom1.jpg?ts=1621878139&ims=544x",
+            "color": "Cinza"
+        },
+        {
+            "id": 6,
+            "reference": "M006",
+            "name": "Boné Amarelo",
+            "description": "Boné amarelo com logo da marca em branco",
+            "price": 28.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/30/F83-6107-030/F83-6107-030_zoom1.jpg?ts=1621878140&ims=544x",
+            "color": "Amarelo"
+        },
+        {
+            "id": 7,
+            "reference": "M007",
+            "name": "Boné Vinho",
+            "description": "Boné vinho com logo da marca em branco",
+            "price": 31.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/34/F83-6107-034/F83-6107-034_zoom1.jpg?ts=1621878143&ims=544x",
+            "color": "Vinho"
+        },
+        {
+            "id": 8,
+            "reference": "M008",
+            "name": "Boné Verde",
+            "description": "Boné verde com logo da marca em branco",
+            "price": 27.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/60/F83-6107-060/F83-6107-060_zoom1.jpg?ts=1621878145&ims=544x",
+            "color": "Verde"
+        },
+        {
+            "id": 9,
+            "reference": "M009",
+            "name": "Boné Marrom",
+            "description": "Boné marrom com logo da marca em branco",
+            "price": 29.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/38/F83-6107-138/F83-6107-138_zoom1.jpg?ts=1621878145&ims=544x",
+            "color": "Marrom"
+        },
+        {
+            "id": 10,
+            "reference": "M010",
+            "name": "Boné Roxo",
+            "description": "Boné roxo com logo da marca em branco",
+            "price": 33.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-reta-fechado-mlb-ny-yankees-basic/98/F83-6107-198/F83-6107-198_zoom1.jpg?ts=1621878141&ims=544x",
+            "color": "Roxo"
+        }
+    ]
+}
