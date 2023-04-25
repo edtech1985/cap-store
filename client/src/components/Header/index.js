@@ -20,12 +20,12 @@ import avatar from "../../img/logo2.jpg";
 
 function Header() {
   const [showDropdown, setShowDropdown] = useState(false);
-  const [cartItems, setCartItems] = useState([]);
+  const [checkoutItems, setCheckoutItems] = useState([]);
 
   useEffect(() => {
-    const items = JSON.parse(localStorage.getItem("cartItems"));
+    const items = JSON.parse(localStorage.getItem("CheckoutItems"));
     if (items) {
-      setCartItems(items);
+      setCheckoutItems(items);
     }
   }, []);
 
@@ -54,7 +54,7 @@ function Header() {
         <Link to="/checkout">
           <StyledCartIcon>
             <FaShoppingCart />
-            <StyledCartCount>{cartItems.length}</StyledCartCount>
+            <StyledCartCount>{checkoutItems.length}</StyledCartCount>
           </StyledCartIcon>
         </Link>
         <StyledAvatar>

@@ -1,0 +1,67 @@
+{
+    "caps": [
+        {
+            "id": 1,
+            "reference": "F001",
+            "name": "Boné Preto",
+            "description": "Boné feminino preto com logo da marca em branco",
+            "price": 29.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-curva-fechado-mlb-ny-yankees-colo/06/F83-6087-006/F83-6087-006_zoom1.jpg?ts=1676003703&ims=544x",
+            "color": "Preto"
+        },
+        {
+            "id": 2,
+            "reference": "F002",
+            "name": "Boné Bege",
+            "description": "Boné feminino bege com logo da marca em branco",
+            "price": 24.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-curva-fechado-mlb-ny-yankees-colo/04/F83-6087-004/F83-6087-004_zoom1.jpg?ts=1671464890&ims=544x",
+            "color": "Bege"
+        },
+        {
+            "id": 3,
+            "reference": "F003",
+            "name": "Boné Cinza",
+            "description": "Boné feminino cinza com logo da marca em branco",
+            "price": 26.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-curva-fechado-mlb-ny-yankees-colo/10/F83-6087-010/F83-6087-010_zoom1.jpg?ts=1670735119&ims=544x",
+            "color": "Cinza"
+        },
+        {
+            "id": 4,
+            "reference": "F004",
+            "name": "Boné Branco",
+            "description": "Boné feminino branco com logo da marca em preto",
+            "price": 22.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-curva-fechado-mlb-ny-yankees-colo/14/F83-6087-014/F83-6087-014_zoom1.jpg?ts=1676005468&ims=544x",
+            "color": "Branco"
+        },
+        {
+            "id": 5,
+            "reference": "F005",
+            "name": "Boné Vinho",
+            "description": "Boné feminino vinho com logo da marca em branco",
+            "price": 27.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-curva-fechado-mlb-ny-yankees-colo/34/F83-6087-034/F83-6087-034_zoom1.jpg?ts=1670735119&ims=544x",
+            "color": "Vinho"
+        },
+        {
+            "id": 6,
+            "reference": "F006",
+            "name": "Boné Rosa",
+            "description": "Boné feminino rosa com logo da marca em branco",
+            "price": 21.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-curva-fechado-mlb-ny-yankees-colo/16/F83-6087-016/F83-6087-016_zoom1.jpg?ts=1670735119&ims=544x",
+            "color": "Rosa"
+        },
+        {
+            "id": 7,
+            "reference": "F007",
+            "name": "Boné Verde",
+            "description": "Boné feminino verde com logo da marca em branco",
+            "price": 25.99,
+            "image_url": "https://static.zattini.com.br/produtos/bone-new-era-aba-curva-fechado-mlb-ny-yankees-colo/60/F83-6087-060/F83-6087-060_zoom1.jpg?ts=1670735119&ims=544x",
+            "color": "Verde"
+        }
+    ]
+}

@@ -11,14 +11,29 @@ import {
   CardRef,
   CardTitle,
 } from "./CapsMale.js";
-import caps from "../../../db/db.json";
+import caps from "../../../db/maledb.json";
 
 function CapsMale() {
   const [cartItems, setCartItems] = useState([]);
 
   const handleAddToCart = (item) => {
-    setCartItems([...cartItems, item]);
-    localStorage.setItem("cartItems", JSON.stringify(cartItems));
+    const existingItem = cartItems.find((i) => i.id === item.id);
+    if (existingItem) {
+      // atualizar quantidade
+      const updatedCartItems = cartItems.map((i) =>
+        i.id === item.id ? { ...i, quantity: i.quantity + 1 } : i
+      );
+      setCartItems(updatedCartItems);
+      localStorage.setItem("MaleCartItems", JSON.stringify(updatedCartItems));
+    } else {
+      // adicionar novo item com quantidade igual a 1
+      const newItem = { ...item, quantity: 1 };
+      setCartItems([...cartItems, newItem]);
+      localStorage.setItem(
+        "MaleCartItems",
+        JSON.stringify([...cartItems, newItem])
+      );
+    }
   };
 
   return (
